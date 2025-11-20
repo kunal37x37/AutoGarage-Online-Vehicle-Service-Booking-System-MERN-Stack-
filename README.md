@@ -72,11 +72,11 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 
 | User Data | Services Data|
  |------------|----------------|
-|<img width="1186" height="720" alt="image" src="https://github.com/user-attachments/assets/c8a44608-4c4c-4e08-8450-6872a2e5b8c7" />|<img width="1225" height="649" alt="image" src="https://github.com/user-attachments/assets/f713ae10-0d17-4ee9-a916-1a985ca55e8f" />|
+|<img width="1154" height="704" alt="image" src="https://github.com/user-attachments/assets/2a079fd2-0cc2-4738-82cd-43d9ee7da91b" />|<img width="1225" height="649" alt="image" src="https://github.com/user-attachments/assets/f713ae10-0d17-4ee9-a916-1a985ca55e8f" />|
 
 | Garage Data | Booking Data|
- |------------|----------------|
-|<img width="1071" height="777" alt="image" src="https://github.com/user-attachments/assets/01343e0a-6e0a-4333-a5b9-a92b35999bee" />|<img width="1048" height="769" alt="image" src="https://github.com/user-attachments/assets/016f4e20-a159-4400-b499-f0103634e8c5" />|
+|------------|----------------|
+|<img width="1158" height="681" alt="image" src="https://github.com/user-attachments/assets/84a38ffd-a851-474c-9c8f-4976bf65c76c" />|<img width="1048" height="769" alt="image" src="https://github.com/user-attachments/assets/016f4e20-a159-4400-b499-f0103634e8c5" />|
 
 ---
 
