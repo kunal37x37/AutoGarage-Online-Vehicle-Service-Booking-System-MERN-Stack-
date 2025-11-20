@@ -58,15 +58,15 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 
 | Add Garage Page| MY Garge page:User can Edit and Update Garage|
 |------------|----------------|
-| <img width="682" height="876" alt="image" src="https://github.com/user-attachments/assets/6647af7d-b3d8-469d-a219-abdf1d766b5f" />| <img width="1403" height="815" alt="image" src="https://github.com/user-attachments/assets/4e9d3831-f512-47fa-a276-b982e8cb1981" />|
+|<img width="641" height="884" alt="image" src="https://github.com/user-attachments/assets/01b90e9f-443d-4e8d-a25e-407236104e42" />| <img width="1529" height="861" alt="image" src="https://github.com/user-attachments/assets/1d92e8c8-4a37-4e19-a92f-5423549d86a1" />|
 
 |  Garage Owner Dashboard Page| Edit Garage page |
 |------------|----------------|
-| <img width="1428" height="702" alt="image" src="https://github.com/user-attachments/assets/e1496fae-4c91-4eee-b1ed-e630e9d45869" /> |<img width="569" height="927" alt="image" src="https://github.com/user-attachments/assets/dcac5f40-d534-49dd-a782-3939de2b28a4" />|
+| <img width="1919" height="373" alt="image" src="https://github.com/user-attachments/assets/2992bca9-9492-40a3-a2ad-167da49d123f" />|<img width="612" height="879" alt="image" src="https://github.com/user-attachments/assets/303a1602-769f-4403-b235-ca4c6fe82fba" />|
 
 |  Garage Booking Management Page|Garage Management Service Page|
 |------------|----------------|
-|<img width="834" height="555" alt="image" src="https://github.com/user-attachments/assets/423f5f91-3404-4b4f-bd4a-20ef63591346" />|<img width="841" height="510" alt="image" src="https://github.com/user-attachments/assets/d1b74fd8-a922-49da-9073-b5c0be4d5c77" />|
+|<img width="1188" height="865" alt="image" src="https://github.com/user-attachments/assets/2e2dee62-569f-411d-8a30-24cb5f8069f0" />|<img width="841" height="510" alt="image" src="https://github.com/user-attachments/assets/d1b74fd8-a922-49da-9073-b5c0be4d5c77" />|
 
 **Databases Screenshots:** 
 
