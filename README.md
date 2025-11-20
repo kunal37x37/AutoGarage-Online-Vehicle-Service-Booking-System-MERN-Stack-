@@ -165,4 +165,37 @@ FRONTEND_URL=http://localhost:3000
 ```
 ### **3. Frontend Setup**
 ```bash
+cd frontend
+npm install
+npm start      
 ```
+#### **Frontend .env**
+```bash
+REACT_APP_API_URL=http://localhost:5000/api
+```
+
+## 📊 Database Collections
+-Users
+-Garages
+-Services
+-Bookings
+-Messages
+
+## 🏗 Workflow Diagram
+User → Search Garage → View Details → Book Service → Confirm Booking → Track Status<br>
+<br>
+Garage Owner → Add Garage → Add Services → Manage Bookings → Update Status
+
+## 🏆 Highlights
+-Production-ready MERN project
+-Cloud database integration
+-Secure role-based authentication
+-Fully responsive user interface
+-Clean and scalable architecture
+
+## 📜 License
+This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+Patel Kunal Kiranbhai<br>
+GitHub:https://github.com/kunal37x37/AutoGarage-Online-Vehicle-Service-Booking-System-MERN-Stack-/edit/main/README.md
