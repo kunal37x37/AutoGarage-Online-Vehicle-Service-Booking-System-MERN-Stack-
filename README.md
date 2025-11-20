@@ -64,3 +64,24 @@ Garage owners get a dedicated dashboard to manage garages, services, and custome
 ## 📁 Project Structure
 
 ### **Frontend**
+frontend/
+src/
+components/
+AddGarage.jsx
+AutoGarageApp.jsx
+AutoGarageHomepage.jsx
+AutoGarageLanding.jsx
+BookingConfirmation.jsx
+BookingPage.jsx
+GarageDetails.jsx
+GarageOwnerDashboard.jsx
+GarageServices.jsx
+ManageServices.jsx
+MessagesPage.jsx
+MyBookings.jsx
+MyGarages.jsx
+UserProfile.jsx
+styles/
+AutoGarageHomepage.css
+App.js
+index.js
