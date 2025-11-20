@@ -27,7 +27,6 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 - [Future Enhancements](#-future-enhancements)
 - [License](#-license)
 - [Author](#-author)
-
 ---
 
 # 📘 Project Overview
