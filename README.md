@@ -34,17 +34,18 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 ## 🖼 Screenshots
 **User  Screenshots:** 
 
-| Landing Page| Register page |
+| Landing Page| Landing page |
 |------------|----------------|
-| <img width="1390" height="705" alt="image" src="https://github.com/user-attachments/assets/4cb74957-697f-4d3c-a33f-c2ef8c45abcf" />| <img width="1883" height="881" alt="image" src="https://github.com/user-attachments/assets/acbc609d-5134-4dcd-86d1-09279e6a1c74" />|
+| <img width="1390" height="705" alt="image" src="https://github.com/user-attachments/assets/4cb74957-697f-4d3c-a33f-c2ef8c45abcf" />|<img width="1376" height="713" alt="image" src="https://github.com/user-attachments/assets/d7931e6c-a65f-4e27-97c6-6acb91492486" />|
 
-|Login page | Movie details page|
-|------------|----------------|
-|<img width="1893" height="759" alt="image" src="https://github.com/user-attachments/assets/284624d1-77d5-4ceb-a163-cdaada1ee8c7" />|<img width="1176" height="839" alt="image" src="https://github.com/user-attachments/assets/e5b5deb0-3cd0-427c-8e99-f26854f21672" />|
 
-|Ticket Booking page | confirmation /ticket download  page|
+|Home page | Home page| Home Page |
+|------------|----------------|------------|
+|<img width="1436" height="688" alt="image" src="https://github.com/user-attachments/assets/3b46fa7c-ad96-40d6-af24-7a56b0354602" />|<img width="1436" height="688" alt="image" src="https://github.com/user-attachments/assets/d975d408-eab9-4042-9620-60daced22380" />|<img width="1390" height="653" alt="image" src="https://github.com/user-attachments/assets/59d43961-75c5-483f-a668-5aa1fbba0771" />|
+
+|Signup page | Login Form/Logout page|
 |------------|----------------|
-|<img width="858" height="891" alt="image" src="https://github.com/user-attachments/assets/a44ea529-c83c-4658-a99c-b9c87d7ba547" />|<img width="1168" height="781" alt="image" src="https://github.com/user-attachments/assets/224ff223-7dce-47d6-882a-46c539d67aee" />|
+|<img width="725" height="524" alt="image" src="https://github.com/user-attachments/assets/4feb0ec4-34b0-4ae0-8ee4-2f612a7f1b33" />|<img width="782" height="532" alt="image" src="https://github.com/user-attachments/assets/696c32f8-dd61-4006-b476-625d50646496" />|
 
 |Print Ticke image/E-Ticket | MyBooking page|
 |------------|----------------|
