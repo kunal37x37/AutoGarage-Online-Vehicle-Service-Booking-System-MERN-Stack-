@@ -125,38 +125,44 @@ POST /api/auth/login<br>
 GET /api/users/me<br>
 
 ### **Garages**
-GET /api/garages
-GET /api/garages/:id
-POST /api/garages
-PUT /api/garages/:id
+GET /api/garages<br>
+GET /api/garages/:id<br>
+POST /api/garages<br>
+PUT /api/garages/:id<br>
 
 ### **Bookings**
-POST /api/bookings
-GET /api/bookings/user
-GET /api/bookings/garage
-PUT /api/bookings/:id/status
+POST /api/bookings<br>
+GET /api/bookings/user<br>
+GET /api/bookings/garage<br>
+PUT /api/bookings/:id/status<br>
 
 ### **Messages**
-POST /api/messages
-GET /api/messages/:id
+POST /api/messages<br>
+GET /api/messages/:id<br>
 
 
+---
 
+## ▶️ Installation & Setup
 
-## ▶️ How To Run The Project
-
-### **1. Backend Setup**
+### **1. Clone the Repository**
+```bash
+git clone https://github.com/kunal37x37/AutoGarage-Online-Vehicle-Service-Booking-System-MERN-Stack-/edit/main/README.md
+cd AutoGarage
+```
+### **2. Backend Setup**
 ```bash
 cd backend
 npm install
-npm start
-# OR
-npm run dev
+npm start        # OR npm run dev
 ```
-### **2. Frontend Setup**
+#### **Backend .env**
 ```bash
-cd frontend
-npm install
-npm start
-npm run build
+PORT=5000
+MONGO_URI=your_mongodb_url
+JWT_SECRET=your_secret_key
+FRONTEND_URL=http://localhost:3000
+```
+### **3. Frontend Setup**
+```bash
 ```
