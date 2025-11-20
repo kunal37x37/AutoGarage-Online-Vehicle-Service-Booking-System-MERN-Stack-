@@ -56,27 +56,17 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 
 **Admin  Screenshots:** 
 
-| Register Page| Login page |
+| Add Garage Page| MY Garge page:User can Edit and Update Garage|
 |------------|----------------|
-| <img width="1123" height="639" alt="image" src="https://github.com/user-attachments/assets/11a50676-6dd3-437d-ae6f-fd569f40ddb0" /> | <img width="1032" height="545" alt="image" src="https://github.com/user-attachments/assets/ef9e361c-5499-4620-84b8-ce340283c13a" />|
+| <img width="682" height="876" alt="image" src="https://github.com/user-attachments/assets/6647af7d-b3d8-469d-a219-abdf1d766b5f" />| <img width="1403" height="815" alt="image" src="https://github.com/user-attachments/assets/4e9d3831-f512-47fa-a276-b982e8cb1981" />|
 
-|  Admin Dashboard Page| Add New Movie page |
+|  Garage Owner Dashboard Page| Edit Garage page |
 |------------|----------------|
-| <img width="1205" height="848" alt="image" src="https://github.com/user-attachments/assets/59f28fae-ce75-4137-9a73-23eb2f071b80" /> | <img width="1072" height="764" alt="image" src="https://github.com/user-attachments/assets/75889393-a393-46a6-9510-eb43aa9e88a6" />|
+| <img width="1428" height="702" alt="image" src="https://github.com/user-attachments/assets/e1496fae-4c91-4eee-b1ed-e630e9d45869" /> |<img width="569" height="927" alt="image" src="https://github.com/user-attachments/assets/dcac5f40-d534-49dd-a782-3939de2b28a4" />|
 
-|  Manage Movies[Edit-update-active/inactive Movie] Page| Edit Movie page |
+|  Garage Booking Management Page|Garage Management Service Page|
 |------------|----------------|
-| <img width="1090" height="880" alt="image" src="https://github.com/user-attachments/assets/24d7e4ac-4d08-4e7f-ab6f-8c62f2966bf4" /> |<img width="1059" height="707" alt="image" src="https://github.com/user-attachments/assets/73e9c8ca-b1e3-4241-aa8c-a14b87ecd233" />|
-
-| Manage Showtimes[admin add/delete showtime] Page| Add Showtime Page|
-|------------|----------------|
-|<img width="1084" height="629" alt="image" src="https://github.com/user-attachments/assets/963b6c3b-8fbb-4dd3-96c5-fab5d2e131e5" />|<img width="1052" height="572" alt="image"   src="https://github.com/user-attachments/assets/009461b6-9a2e-4984-a78a-dc17e2f95904" />|
-
- | Admin ShowBooking Page | Admin Home Page|
- |------------|----------------|
-|<img width="1022" height="889" alt="image" src="https://github.com/user-attachments/assets/c8d8641c-860f-4624-936b-60a63c79d4a3" />|<img width="1117" height="761" alt="image" src="https://github.com/user-attachments/assets/0cf38e03-d8ef-42a8-8d6b-694a366792da" />|
-
-
+|<img width="834" height="555" alt="image" src="https://github.com/user-attachments/assets/423f5f91-3404-4b4f-bd4a-20ef63591346" />|<img width="841" height="510" alt="image" src="https://github.com/user-attachments/assets/d1b74fd8-a922-49da-9073-b5c0be4d5c77" />|
 
 **Databases Screenshots:** 
 
