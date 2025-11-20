@@ -46,9 +46,9 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 |<img width="725" height="524" alt="image" src="https://github.com/user-attachments/assets/4feb0ec4-34b0-4ae0-8ee4-2f612a7f1b33" />|<img width="782" height="532" alt="image" src="https://github.com/user-attachments/assets/696c32f8-dd61-4006-b476-625d50646496" />|<img width="783" height="498" alt="image" src="https://github.com/user-attachments/assets/bc9c24eb-9922-4099-af8d-ef80d8a5d000" />|
 
 **User  Screenshots:** 
-|Profile Page| MyBooking page|
+|User find Garage| MyBooking page|
 |------------|----------------|
-|<img width="783" height="498" alt="image" src="https://github.com/user-attachments/assets/bc9c24eb-9922-4099-af8d-ef80d8a5d000" />|<img width="1079" height="900" alt="image" src="https://github.com/user-attachments/assets/7daa8713-d159-463a-939a-c2039deb0fce" />|
+|<img width="495" height="105" alt="image" src="https://github.com/user-attachments/assets/b60e7ea3-43fd-45a9-ac99-47ecf8cf14eb" />|<img width="1079" height="900" alt="image" src="https://github.com/user-attachments/assets/7daa8713-d159-463a-939a-c2039deb0fce" />|
 
 |Print Ticke image/E-Ticket | MyBooking page|
 |------------|----------------|
