@@ -48,11 +48,11 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 **User  Screenshots:** 
 |User find Garage| Garage Details page|
 |------------|----------------|
-|<img width="1336" height="719" alt="image" src="https://github.com/user-attachments/assets/ff99451d-89a6-4056-a3e8-30f523b69e0f" />|<img width="821" height="685" alt="image" src="https://github.com/user-attachments/assets/1956bf12-79f7-4ca4-bc9c-f357908f3029" />|
+|<img width="1509" height="876" alt="image" src="https://github.com/user-attachments/assets/5a56d945-069f-41d8-8e39-d80c6361fa89" />|<img width="1200" height="868" alt="image" src="https://github.com/user-attachments/assets/e123d215-ab27-4fe7-ab97-a86d17b2de5b" />|
 
 |Booking Page | MyBooking page|When user click Details button in MyBooking Page|
 |------------|----------------|------------------|
-|<img width="726" height="890" alt="image" src="https://github.com/user-attachments/assets/a65632ac-d789-4c73-84aa-e363331d62a8" />|<img width="1256" height="834" alt="image" src="https://github.com/user-attachments/assets/f41ae454-9b0b-49d9-a5df-8c01b09165da" />|<img width="956" height="877" alt="image" src="https://github.com/user-attachments/assets/cbd2cfca-7bb8-4e9e-8b8e-b07896f0a037" />|
+|<img width="834" height="824" alt="image" src="https://github.com/user-attachments/assets/aa14443d-2ffc-4276-afc7-c281fe979d33" />|<img width="1358" height="582" alt="image" src="https://github.com/user-attachments/assets/d652775c-b512-47a7-85df-b4355bbb6b1f" />|<img width="817" height="744" alt="image" src="https://github.com/user-attachments/assets/f5422c47-2ed3-4559-b5c3-e88148b67573" />|
 
 **Admin  Screenshots:** 
 
