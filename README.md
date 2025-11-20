@@ -5,7 +5,7 @@
 ![GitHub license](https://img.shields.io/badge/License-MIT-green.svg)
 ![Tech](https://img.shields.io/badge/MERN-FullStack-blue)
 
-AutoGarage is a **full-stack MERN web application** that allows users to search garages, view services, and book appointments online.  
+AutoGarage is a **full-stack MERN web application** that enables users to search nearby garages, view services, and book appointments online.  
 Garage owners get a dedicated dashboard to manage garages, services, and customer bookings.
 
 ---
@@ -13,26 +13,26 @@ Garage owners get a dedicated dashboard to manage garages, services, and custome
 ## 📌 Features
 
 ### 👤 User Features
-- Register / Login (JWT Auth)
-- Search garages with filters  
-- View Garage Details & Services  
-- Book Service Appointments  
-- View Booking Details  
-- Manage User Profile  
+- Login / Register (JWT Auth)
+- Search garages with filters
+- View garage details
+- Book services
+- Track booking status
+- Manage profile
 
 ### 🧑‍🔧 Garage Owner Features
-- Add & Manage Garage  
-- Add/Edit/Delete Services  
-- Manage Customer Bookings  
-- Owner Dashboard  
-- Messaging Module  
+- Add & manage garage
+- Add/Edit/Delete services
+- Manage customer bookings
+- Owner dashboard
+- Messaging module
 
 ### 🛠 System Features
-- Complete MERN Stack  
-- REST API Architecture  
-- JWT Authentication  
-- MongoDB Atlas Cloud Database  
-- Responsive UI (Bootstrap + CSS)  
+- Complete MERN implementation
+- JWT authentication with protected routes
+- RESTful API architecture
+- MongoDB Atlas cloud database
+- Responsive UI with Bootstrap
 
 ---
 
@@ -48,40 +48,41 @@ Garage owners get a dedicated dashboard to manage garages, services, and custome
 - Node.js  
 - Express.js  
 - JWT Authentication  
-- Multer (File Uploads)
+- Multer (for file uploads)
 
 ### **Database**
 - MongoDB Atlas  
-- Mongoose  
+- Mongoose ODM  
 
 ### **Tools**
 - Postman  
-- VS Code  
 - Git & GitHub  
+- VS Code  
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Folder Structure
 
 ### **Frontend**
+```md
 frontend/
-src/
-components/
-AddGarage.jsx
-AutoGarageApp.jsx
-AutoGarageHomepage.jsx
-AutoGarageLanding.jsx
-BookingConfirmation.jsx
-BookingPage.jsx
-GarageDetails.jsx
-GarageOwnerDashboard.jsx
-GarageServices.jsx
-ManageServices.jsx
-MessagesPage.jsx
-MyBookings.jsx
-MyGarages.jsx
-UserProfile.jsx
-styles/
-AutoGarageHomepage.css
-App.js
-index.js
+  src/
+    components/
+      AddGarage.jsx
+      AutoGarageApp.jsx
+      AutoGarageHomepage.jsx
+      AutoGarageLanding.jsx
+      BookingConfirmation.jsx
+      BookingPage.jsx
+      GarageDetails.jsx
+      GarageOwnerDashboard.jsx
+      GarageServices.jsx
+      ManageServices.jsx
+      MessagesPage.jsx
+      MyBookings.jsx
+      MyGarages.jsx
+      UserProfile.jsx
+    styles/
+      AutoGarageHomepage.css
+    App.js
+    index.js
