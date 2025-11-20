@@ -48,7 +48,7 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 **User  Screenshots:** 
 |User find Garage| Garage Details page|
 |------------|----------------|
-|<img width="1336" height="719" alt="image" src="https://github.com/user-attachments/assets/ff99451d-89a6-4056-a3e8-30f523b69e0f" />|<img width="1363" height="931" alt="image" src="https://github.com/user-attachments/assets/909dcf13-7527-4e06-b8de-73526274417f" />|
+|<img width="1336" height="719" alt="image" src="https://github.com/user-attachments/assets/ff99451d-89a6-4056-a3e8-30f523b69e0f" />|<img width="821" height="685" alt="image" src="https://github.com/user-attachments/assets/1956bf12-79f7-4ca4-bc9c-f357908f3029" />|
 
 |Print Ticke image/E-Ticket | MyBooking page|
 |------------|----------------|
