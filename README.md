@@ -319,4 +319,5 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 Patel Kunal Kiranbhai<br>
-GitHub:https://github.com/kunal37x37/AutoGarage-Online-Vehicle-Service-Booking-System-MERN-Stack-
+GitHub:kunal37x37
+Project Link:https://github.com/kunal37x37/AutoGarage-Online-Vehicle-Service-Booking-System-MERN-Stack-
