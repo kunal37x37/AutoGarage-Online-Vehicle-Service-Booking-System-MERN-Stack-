@@ -175,11 +175,11 @@ REACT_APP_API_URL=http://localhost:5000/api
 ```
 
 ## 📊 Database Collections
--Users
--Garages
--Services
--Bookings
--Messages
+- Users
+- Garages
+- Services
+- Bookings
+- Messages
 
 ## 🏗 Workflow Diagram
 User → Search Garage → View Details → Book Service → Confirm Booking → Track Status<br>
@@ -187,11 +187,11 @@ User → Search Garage → View Details → Book Service → Confirm Booking →
 Garage Owner → Add Garage → Add Services → Manage Bookings → Update Status
 
 ## 🏆 Highlights
--Production-ready MERN project
--Cloud database integration
--Secure role-based authentication
--Fully responsive user interface
--Clean and scalable architecture
+- Production-ready MERN project
+- Cloud database integration
+- Secure role-based authentication
+- Fully responsive user interface
+- Clean and scalable architecture
 
 ## 📜 License
 This project is licensed under the MIT License.
