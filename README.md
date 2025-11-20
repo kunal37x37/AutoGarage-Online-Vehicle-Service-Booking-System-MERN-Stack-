@@ -70,13 +70,13 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 
 **Databases Screenshots:** 
 
-| User Data | Movies Data|
+| User Data | Services Data|
  |------------|----------------|
-|<img width="1239" height="364" alt="image" src="https://github.com/user-attachments/assets/2d0e1337-ba4f-468e-92f2-97ce79c6fcd9" />|<img width="1249" height="285" alt="image" src="https://github.com/user-attachments/assets/d2f1b0b8-6351-42cb-9564-91db4036979a" />|
+|<img width="1186" height="720" alt="image" src="https://github.com/user-attachments/assets/c8a44608-4c4c-4e08-8450-6872a2e5b8c7" />|<img width="1225" height="649" alt="image" src="https://github.com/user-attachments/assets/f713ae10-0d17-4ee9-a916-1a985ca55e8f" />|
 
-| Showtime Data | Booking Data|
+| Garage Data | Booking Data|
  |------------|----------------|
-|<img width="1003" height="534" alt="image" src="https://github.com/user-attachments/assets/35bef293-b9e2-47e5-9d5f-169d9903b18f" />|<img width="1449" height="665" alt="image" src="https://github.com/user-attachments/assets/e6a316d3-19de-4c4b-8ec7-f080d075b183" />|
+|<img width="1071" height="777" alt="image" src="https://github.com/user-attachments/assets/01343e0a-6e0a-4333-a5b9-a92b35999bee" />|<img width="1048" height="769" alt="image" src="https://github.com/user-attachments/assets/016f4e20-a159-4400-b499-f0103634e8c5" />|
 
 ---
 
