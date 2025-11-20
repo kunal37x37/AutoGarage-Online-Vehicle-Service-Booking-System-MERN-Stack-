@@ -264,9 +264,9 @@ Garage Owner → Add Garage → Add Services → Manage Bookings → Update Stat
 - AI-based service recommendation
 - Message Page
 
-## 📜 License
+# 📜 License
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 Patel Kunal Kiranbhai<br>
 GitHub:https://github.com/kunal37x37/AutoGarage-Online-Vehicle-Service-Booking-System-MERN-Stack-
