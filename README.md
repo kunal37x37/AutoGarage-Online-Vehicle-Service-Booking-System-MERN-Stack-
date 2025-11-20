@@ -36,12 +36,11 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 
 | Landing Page| Landing page |
 |------------|----------------|
-| <img width="1390" height="705" alt="image" src="https://github.com/user-attachments/assets/4cb74957-697f-4d3c-a33f-c2ef8c45abcf" />|<img width="1376" height="713" alt="image" src="https://github.com/user-attachments/assets/d7931e6c-a65f-4e27-97c6-6acb91492486" />|
-
+| <img width="1874" height="861" alt="image" src="https://github.com/user-attachments/assets/4dfc4d30-1e08-41f0-9c9e-87753bfc5d32" />|<img width="1852" height="890" alt="image" src="https://github.com/user-attachments/assets/e3aa2ce9-1fdf-4e40-9936-424a13f65824" />|
 
 |Home page | Home page| Home Page |
 |------------|----------------|------------|
-|<img width="1436" height="688" alt="image" src="https://github.com/user-attachments/assets/3b46fa7c-ad96-40d6-af24-7a56b0354602" />|<img width="1436" height="688" alt="image" src="https://github.com/user-attachments/assets/d975d408-eab9-4042-9620-60daced22380" />|<img width="1390" height="653" alt="image" src="https://github.com/user-attachments/assets/59d43961-75c5-483f-a668-5aa1fbba0771" />|
+|<img width="1821" height="891" alt="image" src="https://github.com/user-attachments/assets/f98dafaa-692f-4aaf-bba1-55c098fb9368" />|<img width="1823" height="838" alt="image" src="https://github.com/user-attachments/assets/a76f9eae-6096-4589-a6ab-72b524cbc5d7" />|<img width="1819" height="849" alt="image" src="https://github.com/user-attachments/assets/5b834c99-941f-44e3-91ae-1402c8639e27" />|
 
 |Signup page | Login Form/Logout page|
 |------------|----------------|
