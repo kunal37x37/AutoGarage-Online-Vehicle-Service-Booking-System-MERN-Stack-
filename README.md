@@ -50,9 +50,10 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 |------------|----------------|
 |<img width="1336" height="719" alt="image" src="https://github.com/user-attachments/assets/ff99451d-89a6-4056-a3e8-30f523b69e0f" />|<img width="821" height="685" alt="image" src="https://github.com/user-attachments/assets/1956bf12-79f7-4ca4-bc9c-f357908f3029" />|
 
-|Print Ticke image/E-Ticket | MyBooking page|
-|------------|----------------|
-|<img width="435" height="746" alt="image" src="https://github.com/user-attachments/assets/e2fad741-9554-4537-83a2-92aead94d7d0" />|<img width="1079" height="900" alt="image" src="https://github.com/user-attachments/assets/7daa8713-d159-463a-939a-c2039deb0fce" />|
+|Booking Page | MyBooking page|When user click Details button in MyBooking Page|
+
+|------------|----------------|------------------|
+|<img width="726" height="890" alt="image" src="https://github.com/user-attachments/assets/a65632ac-d789-4c73-84aa-e363331d62a8" />|<img width="1256" height="834" alt="image" src="https://github.com/user-attachments/assets/f41ae454-9b0b-49d9-a5df-8c01b09165da" />|<img width="956" height="877" alt="image" src="https://github.com/user-attachments/assets/cbd2cfca-7bb8-4e9e-8b8e-b07896f0a037" />|
 
 **Admin  Screenshots:** 
 
