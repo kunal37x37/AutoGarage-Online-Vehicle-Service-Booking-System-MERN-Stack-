@@ -34,9 +34,9 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 ## 🖼 Screenshots
 **User  Screenshots:** 
 
-| Home Page | Register page |
+| Landing Page| Register page |
 |------------|----------------|
-| <img width="1876" height="892" alt="image" src="https://github.com/user-attachments/assets/8c57599f-89e4-4872-84ea-077c901fff5e" /> | <img width="1883" height="881" alt="image" src="https://github.com/user-attachments/assets/acbc609d-5134-4dcd-86d1-09279e6a1c74" />|
+| <img width="1390" height="705" alt="image" src="https://github.com/user-attachments/assets/4cb74957-697f-4d3c-a33f-c2ef8c45abcf" />| <img width="1883" height="881" alt="image" src="https://github.com/user-attachments/assets/acbc609d-5134-4dcd-86d1-09279e6a1c74" />|
 
 |Login page | Movie details page|
 |------------|----------------|
