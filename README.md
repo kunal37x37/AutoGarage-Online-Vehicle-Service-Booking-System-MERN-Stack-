@@ -29,6 +29,9 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 - [Author](#-author)
 ---
 
+
+## 🖼 Screenshots
+## 🎥 Demo Video
 # 📘 Project Overview
 
 AutoGarage is a **real-world MERN application** developed as an internship project/study perspective.  
