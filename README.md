@@ -2,66 +2,89 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/your-username/AutoGarage?style=flat&color=yellow)
 ![GitHub forks](https://img.shields.io/github/forks/your-username/AutoGarage?style=flat&color=orange)
-![GitHub license](https://img.shields.io/badge/License-MIT-green.svg)
-![Tech](https://img.shields.io/badge/MERN-FullStack-blue)
+![GitHub license](https://img.shields.io/badge/License-MIT-brightgreen)
+![Tech](https://img.shields.io/badge/TechStack-MERN-blue)
 
-AutoGarage is a **full-stack MERN web application** that enables users to search nearby garages, view services, and book appointments online.  
-Garage owners get a dedicated dashboard to manage garages, services, and customer bookings.
-
----
-
-## 📌 Features
-
-### 👤 User Features
-- Login / Register (JWT Auth)
-- Search garages with filters
-- View garage details
-- Book services
-- Track booking status
-- Manage profile
-
-### 🧑‍🔧 Garage Owner Features
-- Add & manage garage
-- Add/Edit/Delete services
-- Manage customer bookings
-- Owner dashboard
-- Messaging module
-
-### 🛠 System Features
-- Complete MERN implementation
-- JWT authentication with protected routes
-- RESTful API architecture
-- MongoDB Atlas cloud database
-- Responsive UI with Bootstrap
+AutoGarage is a **full-stack MERN application** that allows users to search nearby garages, explore services, and book appointments online.  
+Garage owners get a complete dashboard to manage garages, services, bookings, and customers.  
+This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 
 ---
 
-## 🛠 Tech Stack
+# 📌 Table of Contents
 
-### **Frontend**
-- React.js  
-- React Router  
-- Bootstrap 5  
-- Axios  
-
-### **Backend**
-- Node.js  
-- Express.js  
-- JWT Authentication  
-- Multer (for file uploads)
-
-### **Database**
-- MongoDB Atlas  
-- Mongoose ODM  
-
-### **Tools**
-- Postman  
-- Git & GitHub  
-- VS Code  
+- [Project Overview](#-project-overview)
+- [Key Features](#-key-features)
+- [System Architecture](#-system-architecture)
+- [Tech Stack](#-tech-stack)
+- [Folder Structure](#-folder-structure)
+- [Database Schema](#-database-schema)
+- [API Endpoints](#-api-endpoints)
+- [Installation & Setup](#-installation--setup)
+- [Environment Variables](#-environment-variables)
+- [Workflow](#-workflow)
+- [Security Features](#-security-features)
+- [Screenshots](#-screenshots)
+- [Future Enhancements](#-future-enhancements)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Author](#-author)
 
 ---
 
-## 📁 Project Folder Structure
+# 📘 Project Overview
+
+AutoGarage is a **real-world MERN application** developed as an internship project.  
+It provides an **end-to-end vehicle service booking flow** from both **User** and **Garage Owner** roles.
+
+Users can:
+- Search garages  
+- Read service details  
+- Book appointments  
+- Track booking status  
+
+Garage owners can:
+- Add garages  
+- Manage services  
+- Manage bookings  
+- Handle customer communication  
+
+This system is designed with **clean UI, secure authentication, scalable backend, and cloud database support**.
+
+---
+
+# 🎯 Key Features
+
+## 👤 User Features
+- Register / Login / Logout  
+- Search garages with filters  
+- View garage details + owner details  
+- Service booking with date/time  
+- MyBookings list + detailed booking page  
+- Update user profile  
+- Real-time messaging with garage owner  
+
+## 🧑‍🔧 Garage Owner Features
+- Register/Login as Owner  
+- Add and Publish Garage  
+- Add/Edit/Delete Services  
+- Manage bookings from customers  
+- Update booking status (Pending → Accepted → Completed)  
+- Manage garage details  
+- Messaging module  
+
+## ⚙ System Features
+- MERN-based full-stack architecture  
+- REST API design  
+- JWT authentication + role-based access  
+- MongoDB Atlas cloud storage  
+- Multer image handling  
+- Responsive UI using Bootstrap  
+- Clean and scalable folder structure  
+
+---
+
+# 🧩 System Architecture
 
 ### **Frontend**
 ```md
