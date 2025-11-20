@@ -15,18 +15,17 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 
 - [Project Overview](#-project-overview)
 - [Key Features](#-key-features)
+- [📸 Screenshots](#-screenshots)
+- [🎥 Demo Video](#-demo-video)
 - [System Architecture](#-system-architecture)
 - [Tech Stack](#-tech-stack)
 - [Folder Structure](#-folder-structure)
-- [Database Schema](#-database-schema)
 - [API Endpoints](#-api-endpoints)
 - [Installation & Setup](#-installation--setup)
 - [Environment Variables](#-environment-variables)
 - [Workflow](#-workflow)
 - [Security Features](#-security-features)
-- [Screenshots](#-screenshots)
 - [Future Enhancements](#-future-enhancements)
-- [Contributing](#-contributing)
 - [License](#-license)
 - [Author](#-author)
 
@@ -85,8 +84,57 @@ This system is designed with **clean UI, secure authentication, scalable backend
 ---
 
 # 🧩 System Architecture
+Frontend (React.js) → REST API (Express.js) → Database (MongoDB Atlas)
+
+
+### 🟦 Frontend  
+- React Components  
+- Axios API Calls  
+- Bootstrap UI  
+- Authentication (JWT stored in localStorage)  
+
+### 🟥 Backend  
+- Node.js + Express.js  
+- JWT Authentication  
+- Role-based API protection  
+- Multer file uploading  
+- Controllers & Routes  
+
+### 🟩 Database  
+- MongoDB Atlas  
+- Mongoose Schemas  
+- Relationship linking (User → Garage → Bookings)
+
+---
+
+# 🛠 Tech Stack
 
 ### **Frontend**
+- React.js  
+- React Router  
+- Bootstrap 5  
+- Axios  
+
+### **Backend**
+- Node.js  
+- Express.js  
+- JWT Auth  
+- Multer  
+
+### **Database**
+- MongoDB Atlas  
+- Mongoose  
+
+### **Tools**
+- VS Code  
+- GitHub  
+- Postman  
+
+---
+
+# 📁 Folder Structure
+
+### 🟦 Frontend
 ```md
 frontend/
   src/
@@ -110,7 +158,7 @@ frontend/
     App.js
     index.js
 ```
-### **Backend**
+### 🟥 Backend
 ```md
 backend/
   middleware/
@@ -134,14 +182,12 @@ backend/
   server.js
 ```
 
+
 ---
 
-## 🔐 Authentication Flow
-Register → Login → JWT Token → Protected Routes →Role-Based Dashboard (User / Garage Owner)
+# 🌐 API Endpoints
 
-
-## 🔌 REST API Endpoints
-
+### Auth
 ### **Auth**
 POST /api/auth/register<br>
 POST /api/auth/login<br>
@@ -179,22 +225,24 @@ cd backend
 npm install
 npm start        # OR npm run dev
 ```
-#### **Backend .env**
-```bash
-PORT=5000
-MONGO_URI=your_mongodb_url
-JWT_SECRET=your_secret_key
-FRONTEND_URL=http://localhost:3000
-```
 ### **3. Frontend Setup**
 ```bash
 cd frontend
 npm install
 npm start      
 ```
-#### **Frontend .env**
+
+## 🔑 Environment Variables
+### **Backend (.env)**
 ```bash
-REACT_APP_API_URL=http://localhost:5000/api
+PORT=5000
+MONGO_URI=your_mongodb_atlas_url
+JWT_SECRET=your_jwt_secret
+FRONTEND_URL=http://localhost:3000
+```
+### **Frontend (.env)**
+```bash
+REACT_APP_API_URL=http://localhost:5000/api      
 ```
 
 ## 📊 Database Collections
@@ -204,17 +252,18 @@ REACT_APP_API_URL=http://localhost:5000/api
 - Bookings
 - Messages
 
-## 🏗 Workflow Diagram
+## 🏗 Workflow
 User → Search Garage → View Details → Book Service → Confirm Booking → Track Status<br>
 <br>
 Garage Owner → Add Garage → Add Services → Manage Bookings → Update Status
 
-## 🏆 Highlights
-- Production-ready MERN project
-- Cloud database integration
-- Secure role-based authentication
-- Fully responsive user interface
-- Clean and scalable architecture
+## 🚀 Future Enhancements
+- Payment Gateway Integration
+- Admin Dashboard
+- Push Notifications
+- Google Maps API for location tracking
+- AI-based service recommendation
+- Message Page
 
 ## 📜 License
 This project is licensed under the MIT License.
