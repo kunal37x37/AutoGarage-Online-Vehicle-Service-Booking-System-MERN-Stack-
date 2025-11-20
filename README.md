@@ -116,13 +116,13 @@ backend/
 ## 🔐 Authentication Flow
 Register → Login → JWT Token → Protected Routes →Role-Based Dashboard (User / Garage Owner)
 
-```
+
 ## 🔌 REST API Endpoints
 
 ### **Auth**
-POST /api/auth/register
-POST /api/auth/login
-GET /api/users/me
+POST /api/auth/register<br>
+POST /api/auth/login<br>
+GET /api/users/me<br>
 
 ### **Garages**
 GET /api/garages
@@ -141,7 +141,7 @@ POST /api/messages
 GET /api/messages/:id
 
 
-```
+
 
 ## ▶️ How To Run The Project
 
