@@ -32,7 +32,6 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 ## 🎥 Demo Video
 
 ## 🖼 Screenshots
-**User  Screenshots:** 
 
 | Landing Page| Landing page |
 |------------|----------------|
@@ -42,13 +41,14 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 |------------|----------------|------------|
 |<img width="1821" height="891" alt="image" src="https://github.com/user-attachments/assets/f98dafaa-692f-4aaf-bba1-55c098fb9368" />|<img width="1823" height="838" alt="image" src="https://github.com/user-attachments/assets/a76f9eae-6096-4589-a6ab-72b524cbc5d7" />|<img width="1819" height="849" alt="image" src="https://github.com/user-attachments/assets/5b834c99-941f-44e3-91ae-1402c8639e27" />|
 
-|Signup page | Login Form/Logout page|
+|Signup page | Login Form/Logout page|Profile Page|
 |------------|----------------|
-|<img width="725" height="524" alt="image" src="https://github.com/user-attachments/assets/4feb0ec4-34b0-4ae0-8ee4-2f612a7f1b33" />|<img width="782" height="532" alt="image" src="https://github.com/user-attachments/assets/696c32f8-dd61-4006-b476-625d50646496" />|
+|<img width="725" height="524" alt="image" src="https://github.com/user-attachments/assets/4feb0ec4-34b0-4ae0-8ee4-2f612a7f1b33" />|<img width="782" height="532" alt="image" src="https://github.com/user-attachments/assets/696c32f8-dd61-4006-b476-625d50646496" />|<img width="783" height="498" alt="image" src="https://github.com/user-attachments/assets/bc9c24eb-9922-4099-af8d-ef80d8a5d000" />|
 
-|Print Ticke image/E-Ticket | MyBooking page|
+**User  Screenshots:** 
+|Profile Page| MyBooking page|
 |------------|----------------|
-|<img width="435" height="746" alt="image" src="https://github.com/user-attachments/assets/e2fad741-9554-4537-83a2-92aead94d7d0" />|<img width="1079" height="900" alt="image" src="https://github.com/user-attachments/assets/7daa8713-d159-463a-939a-c2039deb0fce" />|
+|<img width="783" height="498" alt="image" src="https://github.com/user-attachments/assets/bc9c24eb-9922-4099-af8d-ef80d8a5d000" />|<img width="1079" height="900" alt="image" src="https://github.com/user-attachments/assets/7daa8713-d159-463a-939a-c2039deb0fce" />|
 
 |Print Ticke image/E-Ticket | MyBooking page|
 |------------|----------------|
