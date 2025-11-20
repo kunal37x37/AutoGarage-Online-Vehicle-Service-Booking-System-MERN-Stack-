@@ -43,7 +43,7 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 
 |Signup page | Login Form/Logout page|Profile Page|
 |------------|----------------|-------------|
-|<img width="725" height="524" alt="image" src="https://github.com/user-attachments/assets/4feb0ec4-34b0-4ae0-8ee4-2f612a7f1b33" />|<img width="782" height="532" alt="image" src="https://github.com/user-attachments/assets/696c32f8-dd61-4006-b476-625d50646496" />|<img width="783" height="498" alt="image" src="https://github.com/user-attachments/assets/bc9c24eb-9922-4099-af8d-ef80d8a5d000" />|
+|<img width="725" height="517" alt="image" src="https://github.com/user-attachments/assets/30130107-1fdd-42a2-a536-069ec31976ec" />|<img width="805" height="535" alt="image" src="https://github.com/user-attachments/assets/cdc1942a-8108-40a6-912a-942fd308ce80" />|<img width="776" height="495" alt="image" src="https://github.com/user-attachments/assets/19202a86-82b3-4f94-82f2-b6fc24976c67" />|
 
 **User  Screenshots:** 
 |User find Garage| Garage Details page|
