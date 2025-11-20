@@ -86,3 +86,78 @@ frontend/
       AutoGarageHomepage.css
     App.js
     index.js
+```
+### **Backend**
+```md
+backend/
+  middleware/
+    admin.js
+    auth.js
+    garageOwner.js
+    services.js
+  models/
+    Booking.js
+    Garage.js
+    Message.js
+    User.js
+  routes/
+    admin.js
+    auth.js
+    bookings.js
+    garages.js
+    messages.js
+    users.js
+  uploads/
+  server.js
+```
+
+---
+
+## 🔐 Authentication Flow
+Register → Login → JWT Token → Protected Routes →Role-Based Dashboard (User / Garage Owner)
+
+---
+
+## 🔌 REST API Endpoints
+
+### **Auth**
+POST /api/auth/register
+POST /api/auth/login
+GET /api/users/me
+
+### **Garages**
+GET /api/garages
+GET /api/garages/:id
+POST /api/garages
+PUT /api/garages/:id
+
+### **Bookings**
+POST /api/bookings
+GET /api/bookings/user
+GET /api/bookings/garage
+PUT /api/bookings/:id/status
+
+### **Messages**
+POST /api/messages
+GET /api/messages/:id
+
+
+---
+
+## ▶️ How To Run The Project
+
+### **1. Backend Setup**
+```bash
+cd backend
+npm install
+npm start
+# OR
+npm run dev
+```
+### **2. Frontend Setup**
+```bash
+cd frontend
+npm install
+npm start
+npm run build
+```
