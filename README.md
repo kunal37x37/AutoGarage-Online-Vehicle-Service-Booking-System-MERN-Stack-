@@ -24,7 +24,6 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 - [Installation & Setup](#-installation--setup)
 - [Environment Variables](#-environment-variables)
 - [Workflow](#-workflow)
-- [Security Features](#-security-features)
 - [Future Enhancements](#-future-enhancements)
 - [License](#-license)
 - [Author](#-author)
